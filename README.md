@@ -78,14 +78,16 @@ Using real-world datasets, this analysis transforms raw data into actionable ins
 ![KPI_Cards](screenshots/KPI_Cards.jpg)
 
 ### 📈 Cart & Behavior Analysis
-![Cart&Behavior](screenshots/car_&_behavior_analysis.jpeg)
+![Cart&Behavior](screenshots/CartBehaviorAnalysis.jpeg)
 
-### 🔥 Customer_Engagement vs purchase_behavior
-![bar_chart_customer_behavior](bar_chart_customer_behavior.jpg)
+### 🔥 Chart_Customer_Behavior
+![ChartCustomerBehavior](screenshots/ChartCustomerBehavior.jpg)
 
 ### 💡 Session_Duration_Avg
-![Average_Session_Duration_Avg](Average_Session_Duration_Avg.jpg)
+![SessionDuration](screenshots/SessionDuration.jpg)
 
+### 💡 Engagement vs Purchase
+![EngagementvsPurchase](screenshots/EngagementvsPurchase.jpg)
 ---
 
 ## 💡 Key Insights
