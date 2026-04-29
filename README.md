@@ -81,10 +81,10 @@ Using real-world datasets, this analysis transforms raw data into actionable ins
 ![Cart&Behavior](screenshots/car_&_behavior_analysis.jpeg)
 
 ### 🔥 Customer_Engagement vs purchase_behavior
-![engagementvspurchase](customer_engagement_vs_purchase_behavior.jpg)
+![bar_chart_customer_behavior](bar_chart_customer_behavior.jpg)
 
 ### 💡 Session_Duration_Avg
-![SessionDurationAvg](Average_Session_Duration_Avg.jpg)
+![Average_Session_Duration_Avg](Average_Session_Duration_Avg.jpg)
 
 ---
 
